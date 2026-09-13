@@ -1,0 +1,7 @@
+{
+  "name": "الصحيفة الإلكترونية لأخبار العالم",
+  "description": "الصحيفة الإلكترونية لأخبار العالم — منصة صحفية رقمية عالمية مستقلة تعمل على مدار 24 ساعة بواسطة مراسلين رقميين ذوي اختصاص إقليمي ومحررين ذكاء اصطناعي تحت إشراف رئيس التحرير Alex Morgan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
